@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#define MASTER_RIGHT
+#define MASTER_LEFT
 #define FORCE_NKRO
 #define ONESHOT_TAP_TOGGLE 3
 #define ONESHOT_TIMEOUT 2000
